@@ -29,6 +29,7 @@ public class HelloGit {
 		// TODO Auto-generated method stub
 		System.out.println("HelloGit");
 		System.out.println("更新1");
+		System.out.println("更新2");
 
 	}
 
