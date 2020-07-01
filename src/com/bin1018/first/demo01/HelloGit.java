@@ -34,7 +34,7 @@ public class HelloGit {
 		System.out.println("创建分支");
 		System.out.println("主干添加");
 		System.out.println("分支添加");
-		System.out.println("朱彬写了一堆代码");
+		System.out.println("张三写了一大堆代码");
 
 	}
 
